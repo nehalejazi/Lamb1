@@ -25,8 +25,8 @@ public class Test1 {
         capabilities.setCapability("browserName", "Chrome");
         capabilities.setCapability("version", "90.0"); // If this cap isn't specified, it will just get the any available one
         capabilities.setCapability("resolution","1024x768");
-        capabilities.setCapability("build", "First Nehal2 Test");
-        capabilities.setCapability("name", "Sample Nehal2 Test");
+        capabilities.setCapability("build", "First Nehal3 Test");
+        capabilities.setCapability("name", "Sample Nehal3 Test");
         capabilities.setCapability("network", true); // To enable network logs
         capabilities.setCapability("visual", true); // To enable step by step screenshot
         capabilities.setCapability("video", true); // To enable video recording
